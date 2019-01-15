@@ -1,0 +1,8 @@
+com\example\poll\PollsApplication.class
+com\example\poll\repository\UserRepository.class
+com\example\poll\repository\RoleRepository.class
+com\example\poll\model\RoleName.class
+com\example\poll\model\audit\DateAudit.class
+com\example\poll\config\AuditingConfig.class
+com\example\poll\model\Role.class
+com\example\poll\model\User.class
